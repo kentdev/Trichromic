@@ -1,0 +1,100 @@
+OpenLayer started up succesfully
+
+Auto Loader: Executing 3 pending loading commands
+Auto Loader: Completed
+
+Screen set up succesfully
+
+Loading a true type font: /home/kent/Documents/Programming/Archives/Trichromic (May 2007)/data/rock.ttf
+Loading a true type font: /home/kent/Documents/Programming/Archives/Trichromic (May 2007)/data/rock.ttf
+Loading a true type font: /home/kent/Documents/Programming/Archives/Trichromic (May 2007)/data/rock.ttf
+Loading bitmap: data/graphics/misc/000.png
+Loading bitmap: data/graphics/misc/001.png
+Loading bitmap: data/graphics/misc/002.png
+Loading bitmap: data/graphics/misc/003.png
+Loading bitmap: data/graphics/misc/004.png
+Loading bitmap: data/graphics/misc/005.png
+Loading bitmap: data/graphics/misc/006.png
+Loading bitmap: data/graphics/misc/007.png
+Loading bitmap: data/graphics/misc/008.png
+Loading bitmap: data/graphics/misc/009.png
+Loading bitmap: data/graphics/misc/010.png
+Loading bitmap: data/graphics/misc/011.png
+Loading bitmap: data/graphics/misc/012.png
+Loading bitmap: data/graphics/misc/013.png
+Loading bitmap: data/graphics/misc/014.png
+Loading bitmap: data/graphics/misc/015.png
+Loading bitmap: data/graphics/misc/016.png
+Loading bitmap: data/graphics/misc/017.png
+Loading bitmap: data/graphics/misc/018.png
+Loading bitmap: data/graphics/misc/019.png
+Loading bitmap: data/graphics/misc/020.png
+Loading bitmap: data/graphics/misc/021.png
+Loading bitmap: data/graphics/misc/022.png
+Loading bitmap: data/graphics/misc/023.png
+Loading bitmap: data/graphics/misc/024.png
+Loading bitmap: data/graphics/misc/025.png
+Loading bitmap: data/graphics/misc/026.png
+Loading bitmap: data/graphics/misc/027.png
+Loading bitmap: data/graphics/misc/028.png
+Loading bitmap: data/graphics/misc/029.png
+Loading bitmap: data/graphics/misc/030.png
+Loading bitmap: data/graphics/misc/031.png
+Loading bitmap: data/graphics/misc/032.png
+Loading bitmap: data/graphics/misc/033.png
+Loading bitmap: data/graphics/misc/034.png
+Loading bitmap: data/graphics/misc/035.png
+Loading bitmap: data/graphics/misc/036.png
+Loading bitmap: data/graphics/misc/037.png
+Loading bitmap: data/graphics/misc/038.png
+Loading bitmap: data/graphics/misc/039.png
+Loading bitmap: data/graphics/misc/040.png
+Loading bitmap: data/graphics/misc/041.png
+Loading bitmap: data/graphics/misc/042.png
+Loading bitmap: data/graphics/misc/043.png
+Loading bitmap: data/graphics/misc/044.png
+Loading bitmap: data/graphics/misc/045.png
+Loading bitmap: data/graphics/misc/046.png
+Loading bitmap: data/graphics/misc/047.png
+Loading bitmap: data/graphics/misc/048.png
+Loading bitmap: data/graphics/misc/049.png
+Loading bitmap: data/graphics/misc/050.png
+Loading bitmap: data/graphics/misc/051.png
+Loading bitmap: data/graphics/misc/052.png
+Loading bitmap: data/graphics/misc/053.png
+Loading bitmap: data/graphics/misc/054.png
+Loading bitmap: data/graphics/misc/055.png
+Loading bitmap: data/graphics/stats/00.png
+Loading bitmap: data/graphics/stats/01.png
+Loading bitmap: data/graphics/stats/02.png
+Loading bitmap: data/graphics/stats/03.png
+Loading bitmap: data/graphics/stats/04.png
+Loading bitmap: data/graphics/stats/05.png
+Loading bitmap: data/graphics/stats/06.png
+Loading bitmap: data/graphics/stats/07.png
+Loading bitmap: data/graphics/stats/08.png
+Loading bitmap: data/graphics/stats/09.png
+Loading bitmap: data/graphics/stats/10.png
+Loading bitmap: data/graphics/stats/11.png
+Loading bitmap: data/graphics/stats/12.png
+Loading bitmap: data/graphics/stats/13.png
+Loading bitmap: data/graphics/mouse/01.png
+Loading bitmap: data/graphics/mouse/02.png
+Loading bitmap: data/graphics/army1.png
+Loading bitmap: data/graphics/army2.png
+Loading bitmap: data/graphics/army3.png
+Creating an empty Bitmap, width: 60 height: 54
+Used framebuffer: Framebuffer emulation
+Creating an empty Bitmap, width: 60 height: 54
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 640 height: 24 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 640 height: 24 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 640 height: 24 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 160 height: 600 Color: ( 0, 0, 0 )
+Creating an empty Bitmap, width: 640 height: 24 Color: ( 0, 0, 0 )

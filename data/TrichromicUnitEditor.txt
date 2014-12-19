@@ -1,0 +1,37 @@
+Trichromic INI <-> CSV Conversion Tool v0.2
+---------------------------------------------------------------------
+"Because damage dealt only matters relative to damage absorbed, and
+strong only appears strong next to weak."
+
+*****Step 1:*****
+Place "tri_ini_to_csv.exe" and "tri_csv_to_ini.exe" in the same folder as "empire.ini" [...\trichromic\data\].
+
+*****Step 2:*****
+Run tri_ini_to_csv.exe to export core gameplay balance values to a csv (comma separated values) file.
+
+*****Step 3:*****
+Open and edit the .csv file inside Excel.  When finished, save back to the same file name still in ".csv" format Excel will ask for confirmation that using this format-free type is desired; answer Yes.
+
+*****Step 4:*****
+Run tri_csv_to_ini.exe to translate the contents of the CSV file back into the empire.ini gameplay file.
+
+*****Step 5:*****
+Play Trichromic.
+
+*****Variables which are exposed in the CSV:*****
+"Move" - Move distance per turn; +/- modifiers may be applied based on army
+"Cost" - Unit cost.  Again, price may be modified based on the army played
+"R Min","R Max" - Range Min and Range Max for attacks
+"H Land","H Air","H Sea" - Whether attacks can Hit Land, Hit Air, and Hit Sea
+"A Gun","A Fire","A Bomb" - Attack power for Gun, Fire, and Bomb/Explosive damage
+"D Gun","D Fire","D Bomb" - Defense subtraction for Gun, Fire, and Bomb/Explosive damage
+"Crimson","Cobalt","Pine" - 1 if the army supports this unit, 0 if it does not
+"Tech" - Tech level at which this unit becomes available
+Most other values are either graphical, audio, only apply to a select few special units, or otherwise don't need to be seen side-by-side while analyzing game balance.
+
+***************NOTE:***************
+This program is not intended for use in editing unit names, adding new units, or deleting units from the game.  Attempt to edit that sort of data (deleting unit rows from the CSV, adding new rows, etc.) will likely have funky results, the consequences of which I cannot be held responsible for.
+;-)
+
+-Chris DeLeon
+Jan 16, 2007
